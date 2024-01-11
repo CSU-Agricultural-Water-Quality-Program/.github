@@ -16,7 +16,7 @@ Agriculture is an unpredictable and ever-changing industry, and the AWQP seeks t
 ## Collaborate With Us
 We invite collaboration and contributions from researchers, students, and professionals interested in water quality and sustainable agriculture. Visit our [website](https://agsci.colostate.edu/waterquality/) for more information on our programs and how to get involved.
 
-![Irrigation Picture](/figures/Irrigation.jpg)
+![Irrigation Picture](/figures/Irrigation.JPG)
 
 ## Contact
 For inquiries or further information, please contact us through our [website](https://agsci.colostate.edu/waterquality/contact-us/), or email us at [AgWaterQuality.colostate.edu](mailto:AgWaterQuality.colostate.edu).
